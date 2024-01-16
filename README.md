@@ -7,6 +7,8 @@ Then run restore.sh like normal,
 
 Tested with 5.11 internalUI on a 16 GB iPhone 4.
 
+No support will be given.
+
 What is Pluvia?
 ===============
 Pluvia allows you to untethered downgrade your iPhone 4 without SHSH blobs!
