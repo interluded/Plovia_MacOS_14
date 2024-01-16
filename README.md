@@ -1,7 +1,11 @@
 Important Notice
 ================
+This is a fork of pluvia with an edited restore.sh to ensure compatibility with newer macOS versions.
 
-Development of Pluvia is now discontinued, and no support is available for it. It is not compatible with macOS 12.3 Monterey or newer versions.
+Download Python2.7.18 from https://www.python.org/downloads/release/python-2718/
+Then run restore.sh like normal,
+
+Tested with 5.11 internalUI on a 16 GB iPhone 4.
 
 What is Pluvia?
 ===============
